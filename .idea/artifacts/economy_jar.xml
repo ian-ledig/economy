@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="economy:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/economy_jar</output-path>
+    <root id="archive" name="economy.jar">
+      <element id="module-output" name="economy" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../spigot-server/spigot-1.16.5.jar" path-in-jar="/" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/plugin.yml" />
+    </root>
+  </artifact>
+</component>
